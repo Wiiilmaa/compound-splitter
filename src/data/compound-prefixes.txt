@@ -1,6 +1,7 @@
 # A list of allowed compound prefixes. These are stripped/ detached immediately, if possible.
 
 Abblend
+Abbrech
 Abbrems
 Abbrenn
 Abdampf
@@ -87,13 +88,14 @@ Aufwärts
 Aufwach
 Aufwickel
 Ausdrück
+Ausdrucks
 Ausfüll
 Ausgeh
 Aushilf
 Ausschalt
 Ausspäh
 Ausstell
-Auswärt
+Auswärts
 Ausweich
 Bastel
 Beat
@@ -102,12 +104,14 @@ Bedachungs
 Befrachtungs
 Begasungs
 Begebungs
+Begehungs
 Begleit
 Behilf
 Beicht
 Bekenner
-Beratschlagung
+Beratschlagungs
 Bermuda
+Beschütz
 Bestell
 Betonier
 Bettel
@@ -117,6 +121,7 @@ Blaubeer
 Blink
 Bond
 Brau
+Brauch
 Brech
 Brems
 Brenn
@@ -127,7 +132,6 @@ Buß
 Charter
 Cyber
 Dämm
-Dämmer
 Decodier
 Dekodier
 Diktier
@@ -144,7 +148,7 @@ Einschalt
 Einsortier
 Einspritz
 Einstell
-Einwärt
+Einwärts
 Elastik
 Elektro
 Elevation
@@ -252,7 +256,7 @@ Ringel
 Rück
 Sach
 Sammel
-Sanität
+Sanitäts
 Saug
 Schätz
 Schad
